@@ -1,4 +1,6 @@
 # Better Savanna
+⚠︎ To download this resource pack please visit: https://modrinth.com/resourcepack/better-savanna
+
 This Resource Pack removes harsh yellow savanna grass and leaves, but keeps the same savanna feel.
 
 ## A Side by Side Comparison
